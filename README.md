@@ -7,6 +7,10 @@
 👋🤠 Hola, soy Felipe y me apasiona la Tecnología y el mundo de la Programación Web.
 </p>
 
+<p align="center">
+  ![js-icon](https://github.com/felipejoq/felipejoq/assets/35277450/a66090bd-b625-4b3c-9c52-184f3d785057) ![java-icon](https://github.com/felipejoq/felipejoq/assets/35277450/b705a568-7aa3-4371-b18e-3834556c43b6) ![node-icon](https://github.com/felipejoq/felipejoq/assets/35277450/f743458f-e2a0-41d3-af29-ba24d9515cc9) ![springboot-icon](https://github.com/felipejoq/felipejoq/assets/35277450/a3a73638-9724-4c9c-a26e-a2a0f744d0ba)
+</p>
+
 ---
 
 - `Backend:`
