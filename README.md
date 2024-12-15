@@ -8,11 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://uncodigo.com/_astro/javascript.yMBkemt4_17oDm7.webp" alt="Js Logo - Skills" style="height: 50px; width:50px;"/>
-  <img src="https://uncodigo.com/_astro/java.BAcnsSaB_1P7G7n.webp" alt="Java Logo - Skills" style="height: 50px; width:50px;"/>
-  <img src="https://uncodigo.com/_astro/node-js.GCB2R06X_1Y0Izo.webp" alt="Node Logo - Skills" style="height: 50px; width:50px;"/>
-  <img src="https://uncodigo.com/_astro/spring-boot.Ys_7DTrB_kWzyN.webp" alt="Springboot Logo - Skills" style="height: 50px; width:50px;"/>
-  
+  <img src="https://github.com/user-attachments/assets/aa2ed44c-286b-405a-82cf-13dc2c93920b" alt="Js Logo - Skills" style="height: 50px; width:50px;"/>
+  <img src="https://github.com/user-attachments/assets/4c3f4574-96a0-4f4b-ad15-43ab2f460410" alt="Java Logo - Skills" style="height: 50px; width:50px;"/>
+  <img src="https://github.com/user-attachments/assets/a79105fe-e2bd-478c-9b42-dd63ef883054" alt="Node Logo - Skills" style="height: 50px; width:50px;"/>
+  <img src="https://github.com/user-attachments/assets/3d07c747-77bd-4b92-ba80-47bb8678f0bc" alt="Springboot Logo - Skills" style="height: 50px; width:50px;"/>
 </p>
 
 ---
