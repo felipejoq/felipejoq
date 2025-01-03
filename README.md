@@ -28,7 +28,7 @@ Hola, soy **Felipe**, un apasionado de la tecnología y la programación web. Me
 
 ---
 
-### 💌 Contacto
+### 📪 Contacto
 
 📩 Puedes escribirme a [felipe@uncodigo.com](mailto:felipe@uncodigo.com).
 
