@@ -1,28 +1,40 @@
 ## Felipe Jofré Quevedo
-#### Analista Programador - FullStack Dev 👨‍💻
+#### Analista Programador - FullStack Developer 👨‍💻
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1252131b-373c-4bb1-a6a3-e72dc5c98312" alt="Hello!" />
+</p>
+<p align="center">
+Hola, soy **Felipe**, un apasionado de la tecnología y la programación web. Me encanta aprender constantemente y enfrentar nuevos desafíos.
+</p>
+
+### 🛠️ Habilidades Técnicas
+
+#### Backend
+- 🌐 Mi stack favorito: **Node.js + Express** (JavaScript/TypeScript).
+- ☕ Experiencia adicional con **Java** y **Spring Boot**.
+
+#### Frontend
+- ⚛️ Experto en **React.js** y con conocimientos en **Angular**.
+- 🚀 Experiencia con **Astro** para el desarrollo de sitios web rápidos y modernos.
+
+#### Bases de Datos
+- 🗄️ Sólida experiencia en **MySQL (MariaDB)** y **PostgreSQL**.
+- 🌱 Experiencia básica en **MongoDB**.
+
+#### Extras
+- 📚 Apasionado por el **aprendizaje continuo** y mejorar mis habilidades cada día.
 
 ---
 
-<p align="center">
-👋🤠 Hola, soy Felipe y me apasiona la Tecnología y el mundo de la Programación Web.
-</p>
+### 💌 Contacto
+
+📩 Puedes escribirme a [felipe@uncodigo.com](mailto:felipe@uncodigo.com).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa2ed44c-286b-405a-82cf-13dc2c93920b" alt="Js Logo - Skills" style="height: 50px; width:50px;"/>
-  <img src="https://github.com/user-attachments/assets/4c3f4574-96a0-4f4b-ad15-43ab2f460410" alt="Java Logo - Skills" style="height: 50px; width:50px;"/>
-  <img src="https://github.com/user-attachments/assets/a79105fe-e2bd-478c-9b42-dd63ef883054" alt="Node Logo - Skills" style="height: 50px; width:50px;"/>
-  <img src="https://github.com/user-attachments/assets/3d07c747-77bd-4b92-ba80-47bb8678f0bc" alt="Springboot Logo - Skills" style="height: 50px; width:50px;"/>
+  <img src="https://github.com/user-attachments/assets/aa2ed44c-286b-405a-82cf-13dc2c93920b" alt="JavaScript Logo" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/4c3f4574-96a0-4f4b-ad15-43ab2f460410" alt="Java Logo" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/a79105fe-e2bd-478c-9b42-dd63ef883054" alt="Node.js Logo" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/3d07c747-77bd-4b92-ba80-47bb8678f0bc" alt="Spring Boot Logo" height="50" width="50"/>
 </p>
-
----
-
-- `Backend:`
-  - Mi stack favorito para el Desarrollo Web es, actualmente con Node.js + Express usando JavaScript o TypeScript, también con Java en menor medida usando Spring Boot.
-- `Frontend`:
-  - Me siento cómodo usando Angular, pero actualmente tengo más conocimientos en React.js
-- `Base de datos:`
-  - Tengo conocimientos en MySQL (MariaDB), PostgreSQL y MongoDB en menor medida.
-- `Otros aspectos:`
-  - Me gusta mucho estar constantemente aprendiendo.
-
-📪 Si quieres contactarme puedes escribirme al correo 👉 <a href="mailto:felipe@uncodigo.com">felipe@uncodigo.com</a>
