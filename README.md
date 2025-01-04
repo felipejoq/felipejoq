@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/1252131b-373c-4bb1-a6a3-e72dc5c98312" alt="Hello!" />
 </p>
 <p align="center">
-Hola, soy **Felipe**, un apasionado de la tecnología y la programación web. Me encanta aprender constantemente y enfrentar nuevos desafíos.
+Hola, soy _Felipe_, un apasionado de la tecnología y la programación web. Me encanta aprender constantemente y enfrentar nuevos desafíos.
 </p>
 
 ### 🛠️ Habilidades Técnicas
