@@ -9,6 +9,13 @@
 Hola, soy _Felipe_, un apasionado de la tecnología y la programación web. Me encanta aprender constantemente y enfrentar nuevos desafíos.
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa2ed44c-286b-405a-82cf-13dc2c93920b" alt="JavaScript Logo" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/4c3f4574-96a0-4f4b-ad15-43ab2f460410" alt="Java Logo" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/a79105fe-e2bd-478c-9b42-dd63ef883054" alt="Node.js Logo" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/3d07c747-77bd-4b92-ba80-47bb8678f0bc" alt="Spring Boot Logo" height="50" width="50"/>
+</p>
+
 ### 🛠️ Habilidades Técnicas
 
 #### Backend
@@ -31,10 +38,3 @@ Hola, soy _Felipe_, un apasionado de la tecnología y la programación web. Me e
 ### 📪 Contacto
 
 📩 Puedes escribirme a [felipe@uncodigo.com](mailto:felipe@uncodigo.com).
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aa2ed44c-286b-405a-82cf-13dc2c93920b" alt="JavaScript Logo" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/4c3f4574-96a0-4f4b-ad15-43ab2f460410" alt="Java Logo" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/a79105fe-e2bd-478c-9b42-dd63ef883054" alt="Node.js Logo" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/3d07c747-77bd-4b92-ba80-47bb8678f0bc" alt="Spring Boot Logo" height="50" width="50"/>
-</p>
