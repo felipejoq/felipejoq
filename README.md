@@ -38,13 +38,9 @@
 - ☁️ Explorando **AWS (EC2, S3, RDS, Lambda), Azure y GCP**, arquitectura en la nube en general.
 - 🔄 **Pruebas unitarias** con Jest, Supertest, React Testing Library.
 
----
-
 ## 📚 Siempre Aprendiendo
 
 Me gusta estar en constante aprendizaje, explorando nuevas tecnologías y mejorando mi stack actual.
-
----
 
 ## 📪 Contacto
 
