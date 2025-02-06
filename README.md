@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/1252131b-373c-4bb1-a6a3-e72dc5c98312" alt="Hello!" />
 </p>
 <p align="center">
-👋 Hola, soy Felipe, un **Desarrollador Web** apasionado por la tecnología y el aprendizaje continuo. Tengo experiencia en JavaScript, TypeScript, SQL, Node.js y React.js, y disfruto crear aplicaciones eficientes y escalables, me motiva mucho enfrentar desafíos que me hagan mejorar mis habilidades y conocimientos.
+👋 Hola, soy Felipe, un Desarrollador Web apasionado por la tecnología y el aprendizaje continuo. Tengo experiencia en JavaScript, TypeScript, SQL, Node.js y React.js, y disfruto crear aplicaciones eficientes y escalables, me motiva mucho enfrentar desafíos que me hagan mejorar mis habilidades y conocimientos.
 </p>
 
 <p align="center">
