@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/1252131b-373c-4bb1-a6a3-e72dc5c98312" alt="Hello!" />
 </p>
 <p align="center">
-Hola, soy Felipe, un apasionado de la tecnología y la programación web. Me encanta aprender constantemente y enfrentar nuevos desafíos.
+👋 Hola, soy Felipe, un **Desarrollador Web** apasionado por la tecnología y el aprendizaje continuo. Tengo experiencia en JavaScript, TypeScript, SQL, Node.js y React.js, y disfruto crear aplicaciones eficientes y escalables, me motiva mucho enfrentar desafíos que me hagan mejorar mis habilidades y conocimientos.
 </p>
 
 <p align="center">
@@ -16,25 +16,39 @@ Hola, soy Felipe, un apasionado de la tecnología y la programación web. Me enc
   <img src="https://github.com/user-attachments/assets/3d07c747-77bd-4b92-ba80-47bb8678f0bc" alt="Spring Boot Logo" height="50" width="50"/>
 </p>
 
-### 🛠️ Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
-#### Backend
-- 🌐 Mi stack favorito: **Node.js + Express** (JavaScript/TypeScript).
-- ☕ Experiencia adicional con **Java** y **Spring Boot**.
+### Backend
+- 🌐 **Stack principal:** **Node.js + Express/NestJS** (JavaScript/TypeScript).
+- ☕ Conocimientos en **Java + Spring Boot**.
+- 🔗 Diseño e implementación de **APIs RESTful** con buenas prácticas.
 
-#### Frontend
-- ⚛️ Experto en **React.js** y con conocimientos en **Angular**.
-- 🚀 Experiencia con **Astro** para el desarrollo de sitios web rápidos y modernos.
+### Frontend
+- ⚛️ **React.js** como librería principal para desarrollo de interfaces dinámicas y optimizadas.
+- 🅰️ Conocimientos en **Angular** y **Vue**.
+- 🚀 Desarrollo de sitios web modernos con **Astro**.
 
-#### Bases de Datos
-- 🗄️ Sólida experiencia en **MySQL (MariaDB)** y **PostgreSQL**.
-- 🌱 Experiencia básica en **MongoDB**.
+### Bases de Datos
+- 🗄️ Experiencia con **PostgreSQL** y **MySQL (MariaDB)**.
+- 🌱 Familiaridad con bases de datos NoSQL como **MongoDB**.
+- 🔍 Manejo de ORMs como **TypeORM y Sequelize**.
 
-#### Extras
-- 📚 Apasionado por el **aprendizaje continuo** y mejorar mis habilidades cada día.
+### Otros Conocimientos
+- 🖥️ **Linux/Shell Scripting** (básico, con interés en mejorar).
+- ☁️ Explorando **AWS (EC2, S3, RDS, Lambda), Azure y GCP**, arquitectura en la nube en general.
+- 🔄 **Pruebas unitarias** con Jest, Supertest, React Testing Library.
 
 ---
 
-### 📪 Contacto
+## 📚 Siempre Aprendiendo
 
-📩 Puedes escribirme a [felipe@uncodigo.com](mailto:felipe@uncodigo.com).
+Me gusta estar en constante aprendizaje, explorando nuevas tecnologías y mejorando mi stack actual.
+
+---
+
+## 📪 Contacto
+
+📩 **Correo:** [felipe@uncodigo.com](mailto:felipe@uncodigo.com)  
+💼 **Sitio Web:** [uncodigo.com](https://uncodigo.com)  
+🐙 **GitHub:** [github.com/felipejoq](https://github.com/felipejoq)
+
