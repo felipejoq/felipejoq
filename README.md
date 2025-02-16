@@ -15,6 +15,7 @@
   <img src="https://github.com/user-attachments/assets/4c3f4574-96a0-4f4b-ad15-43ab2f460410" alt="Java Logo" height="50" width="50"/>
   <img src="https://github.com/user-attachments/assets/3d07c747-77bd-4b92-ba80-47bb8678f0bc" alt="Spring Boot Logo" height="50" width="50"/>
   <img src="https://github.com/user-attachments/assets/e4925688-9d8e-4895-b016-42986c4e6093" alt="PHP Logo" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/e5dd5d62-dee3-4701-a6b3-9d83f62c0550" alt="Laravel logo" height="50" width="50"/>
 </p>
 
 ## 🛠️ Habilidades Técnicas
