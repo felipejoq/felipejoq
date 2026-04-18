@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa2ed44c-286b-405a-82cf-13dc2c93920b" alt="JavaScript Logo" height="50" width="50"/>
-   <img src="https://github.com/user-attachments/assets/a79105fe-e2bd-478c-9b42-dd63ef883054" alt="Node.js Logo" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/4c3f4574-96a0-4f4b-ad15-43ab2f460410" alt="Java Logo" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/3d07c747-77bd-4b92-ba80-47bb8678f0bc" alt="Spring Boot Logo" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/e4925688-9d8e-4895-b016-42986c4e6093" alt="PHP Logo" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/05b9b297-9ea4-45c9-8dc4-fca03aede25f" alt="Laravel logo" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/aa2ed44c-286b-405a-82cf-13dc2c93920b" height="50" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/a79105fe-e2bd-478c-9b42-dd63ef883054" height="50" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/4c3f4574-96a0-4f4b-ad15-43ab2f460410" height="50" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/3d07c747-77bd-4b92-ba80-47bb8678f0bc" height="50" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/e4925688-9d8e-4895-b016-42986c4e6093" height="50" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/05b9b297-9ea4-45c9-8dc4-fca03aede25f" height="50" style="display:inline-block;" />
 </p>
 
 ## 🛠️ Habilidades Técnicas
